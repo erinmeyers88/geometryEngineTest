@@ -1,0 +1,22 @@
+<div class="mainDiv">
+    <div data-dojo-attach-point="mapIdNode">
+
+    </div>
+    <div><img id="loadingImg"
+                       src="http://developers.arcgis.com/javascript/samples/map_showloading/images/loading.gif"
+                       style="position:absolute; right:49%; top:49%; z-index:100;"/>
+        <div class="mainStyle" id="results"><h2 id="title">Sensitive Land</h2>
+            <canvas data-dojo-attach-point="myChart" id="myChart" width="150" height="150"></canvas>
+            <br><br>
+            <span class="pvt">Sensitive land: <span data-dojo-attach-point="privatePer"></span></span><br>
+            <span class="pub">Non-sensitive land: <span data-dojo-attach-point="publicPer"></span></span>
+            <br><br>
+            Click or drag on the map to view sensitive land within 10 miles of the mouse click.
+            Hover over the pie chart to view the area of land type within the 10-mile buffer.
+            <br><br><input type="radio" name="operation" data-dojo-attach-point="buffOpt" checked>View category by map
+            click
+            <br><br><input type="radio" name="operation" data-dojo-attach-point="drawOpt">View category by polygon
+            <br><br><input type="radio" name="operation" data-dojo-attach-point="navOpt">Navigate Map
+        </div>
+    </div>
+</div>
