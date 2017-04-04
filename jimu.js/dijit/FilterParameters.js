@@ -30,8 +30,8 @@ define([
   'dijit/registry',
   'jimu/filterUtils',
   'jimu/utils',
-  './_SingleFilterParameter',
-  './_filter/ValueProviderFactory'
+  './SingleFilterParameter',
+  './filter/ValueProviderFactory'
 ],
   function(on, Evented, Deferred, all, declare, _WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin, lang,
   html, array, query, registry, filterUtils, jimuUtils, _SingleFilterParameter, ValueProviderFactory) {

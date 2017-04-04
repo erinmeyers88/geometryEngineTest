@@ -15,34 +15,24 @@
 ///////////////////////////////////////////////////////////////////////////
 
 define(['dojo/_base/declare',
-  './_BasicServiceChooserContent',
-  './QueryableServiceBrowser'
+  './BasicServiceChooserContent',
+  './GpServiceBrowser'
 ],
-function(declare, _BasicServiceChooserContent, QueryableServiceBrowser) {
+function(declare, _BasicServiceChooserContent, GpServiceBrowser) {
   return declare([_BasicServiceChooserContent], {
-    baseClass: 'jimu-queryable-service-chooser-content',
+    baseClass: 'jimu-gp-service-chooser-content',
 
     _examples:['http://myserver/arcgis/rest/services',
-    'http://myserver/arcgis/rest/services/myservice/MapServer',
-    'http://myserver/arcgis/rest/services/myservice/FeatureServer',
-    'http://myserver/arcgis/rest/services/myservice/ImageServer'],
-
-    //public methods:
-    //setUrl
-
-    //events:
-    //ok
-    //cancel
-
-    //test urls:
-    //http://services.arcgisonline.com/arcgis/rest/services
+    'http://myserver/arcgis/rest/services/myservice/GpServer',
+    'http://sampleserver6.arcgisonline.com/arcgis/' +
+    'rest/services/Elevation/ESRI_Elevation_World/GPServer/Viewshed'],
 
     //methods need to override:
     //_createServiceBrowser, return a service browser
 
     //to be override,return a service browser
     _createServiceBrowser: function(args){
-      return new QueryableServiceBrowser(args);
+      return new GpServiceBrowser(args);
     }
 
   });

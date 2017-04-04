@@ -15,8 +15,8 @@
 ///////////////////////////////////////////////////////////////////////////
 
 define(['dojo/_base/declare',
-  './_BasicServiceChooser',
-  './_FeaturelayerServiceChooserContent'
+  './BasicServiceChooser',
+  './FeaturelayerServiceChooserContent'
 ],
 function(declare, _BasicServiceChooser, _FeaturelayerServiceChooserContent) {
   return declare([_BasicServiceChooser], {

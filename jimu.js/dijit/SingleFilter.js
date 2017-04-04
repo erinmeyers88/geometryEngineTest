@@ -26,7 +26,7 @@ define([
   'dojo/on',
   'dojo/store/Memory',
   'jimu/utils',
-  'jimu/dijit/_filter/ValueProviderFactory',
+  'jimu/dijit/filter/ValueProviderFactory',
   'jimu/dijit/CheckBox',
   'dijit/form/Select',
   'dijit/form/FilteringSelect',

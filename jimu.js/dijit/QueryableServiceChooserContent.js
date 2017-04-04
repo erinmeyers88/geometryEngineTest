@@ -15,26 +15,34 @@
 ///////////////////////////////////////////////////////////////////////////
 
 define(['dojo/_base/declare',
-  './_BasicServiceChooserContent',
-  './GeocodeServiceBrowser'
+  './BasicServiceChooserContent',
+  './QueryableServiceBrowser'
 ],
-function(declare, _BasicServiceChooserContent, GeocodeServiceBrowser) {
+function(declare, _BasicServiceChooserContent, QueryableServiceBrowser) {
   return declare([_BasicServiceChooserContent], {
-    baseClass: 'jimu-geocode-service-chooser-content',
+    baseClass: 'jimu-queryable-service-chooser-content',
 
     _examples:['http://myserver/arcgis/rest/services',
-    'http://myserver/arcgis/rest/services/folder',
-    'http://myserver/arcgis/rest/services/myservice/GeocodeServer'],
+    'http://myserver/arcgis/rest/services/myservice/MapServer',
+    'http://myserver/arcgis/rest/services/myservice/FeatureServer',
+    'http://myserver/arcgis/rest/services/myservice/ImageServer'],
 
-    //https://gis.lmi.is/arcgis/rest/services/GP_service/geocode_thjonusta_single/GeocodeServer
-    //https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer
+    //public methods:
+    //setUrl
+
+    //events:
+    //ok
+    //cancel
+
+    //test urls:
+    //http://services.arcgisonline.com/arcgis/rest/services
 
     //methods need to override:
     //_createServiceBrowser, return a service browser
 
     //to be override,return a service browser
     _createServiceBrowser: function(args){
-      return new GeocodeServiceBrowser(args);
+      return new QueryableServiceBrowser(args);
     }
 
   });

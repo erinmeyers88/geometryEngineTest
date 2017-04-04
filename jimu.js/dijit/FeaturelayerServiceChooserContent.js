@@ -15,7 +15,7 @@
 ///////////////////////////////////////////////////////////////////////////
 
 define(['dojo/_base/declare',
-  './_BasicServiceChooserContent',
+  './BasicServiceChooserContent',
   './FeaturelayerServiceBrowser'
 ],
 function(declare, _BasicServiceChooserContent, FeaturelayerServiceBrowser) {

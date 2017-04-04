@@ -16,7 +16,7 @@
 
 define([
   'dojo/_base/declare',
-  './_BasicServiceBrowser',
+  './BasicServiceBrowser',
   'dojo/_base/lang',
   'dojo/_base/array',
   'jimu/serviceBrowserRuleUtils'

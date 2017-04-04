@@ -15,24 +15,26 @@
 ///////////////////////////////////////////////////////////////////////////
 
 define(['dojo/_base/declare',
-  './_BasicServiceChooserContent',
-  './GpServiceBrowser'
+  './BasicServiceChooserContent',
+  './GeocodeServiceBrowser'
 ],
-function(declare, _BasicServiceChooserContent, GpServiceBrowser) {
+function(declare, _BasicServiceChooserContent, GeocodeServiceBrowser) {
   return declare([_BasicServiceChooserContent], {
-    baseClass: 'jimu-gp-service-chooser-content',
+    baseClass: 'jimu-geocode-service-chooser-content',
 
     _examples:['http://myserver/arcgis/rest/services',
-    'http://myserver/arcgis/rest/services/myservice/GpServer',
-    'http://sampleserver6.arcgisonline.com/arcgis/' +
-    'rest/services/Elevation/ESRI_Elevation_World/GPServer/Viewshed'],
+    'http://myserver/arcgis/rest/services/folder',
+    'http://myserver/arcgis/rest/services/myservice/GeocodeServer'],
+
+    //https://gis.lmi.is/arcgis/rest/services/GP_service/geocode_thjonusta_single/GeocodeServer
+    //https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer
 
     //methods need to override:
     //_createServiceBrowser, return a service browser
 
     //to be override,return a service browser
     _createServiceBrowser: function(args){
-      return new GpServiceBrowser(args);
+      return new GeocodeServiceBrowser(args);
     }
 
   });

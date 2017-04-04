@@ -15,8 +15,8 @@
 ///////////////////////////////////////////////////////////////////////////
 
 define(['dojo/_base/declare',
-  './_BasicServiceChooser',
-  './_GeocodeServiceChooserContent'
+  './BasicServiceChooser',
+  './GeocodeServiceChooserContent'
 ],
 function(declare, _BasicServiceChooser, _GeocodeServiceChooserContent) {
   return declare([_BasicServiceChooser], {

@@ -27,7 +27,7 @@ define([
     'dojo/request',
     'esri/lang',
     '../utils',
-    './_CropImage',
+    './CropImage',
     'jimu/dijit/Popup',
     'jimu/dijit/Message',
     'jimu/dijit/LoadingShelter'

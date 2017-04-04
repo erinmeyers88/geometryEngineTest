@@ -27,7 +27,7 @@ define([
   'dojo/on',
   'dojo/aspect',
   'dojo/query',
-  './_SingleFilter'
+  './SingleFilter'
 ],
 function(declare, _WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin, template, registry,
   lang, html, array, on, aspect, query, SingleFilter) {

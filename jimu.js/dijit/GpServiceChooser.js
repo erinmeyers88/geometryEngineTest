@@ -15,8 +15,8 @@
 ///////////////////////////////////////////////////////////////////////////
 
 define(['dojo/_base/declare',
-  './_BasicServiceChooser',
-  './_GpServiceChooserContent'
+  './BasicServiceChooser',
+  './GpServiceChooserContent'
 ],
 function(declare, _BasicServiceChooser, _GpServiceChooserContent) {
   return declare([_BasicServiceChooser], {
