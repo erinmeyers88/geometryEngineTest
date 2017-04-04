@@ -21,7 +21,7 @@ define([
   'dojo/promise/all',
   'esri/lang',
   'jimu/portalUrlUtils',
-  './table/_FeatureTable',
+  './table/FeatureTable',
   // './_RelationshipTable',
   './utils'
   ], function(declare, lang, array, Deferred, all,
