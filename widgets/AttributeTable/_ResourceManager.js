@@ -87,8 +87,9 @@ define([
                 lang.delegate(this.config.layerInfos),
                 lang.hitch(this, function(layerInfo) {
                   var mLayerInfo = this._getLayerInfoById(layerInfo.id);
-                  return layerInfo.show && mLayerInfo &&
-                  (layerInfo.name = mLayerInfo.name || mLayerInfo.title);
+                  return layerInfo.show && mLayerInfo
+                  //     &&
+                  // (layerInfo.name = mLayerInfo.name || mLayerInfo.title);
                 }));
             }
           }
