@@ -22,7 +22,7 @@ define([
   'dijit/_WidgetBase',
   'dijit/_TemplatedMixin',
   'dijit/_WidgetsInTemplateMixin',
-  'dojo/text!./templates/_SingleFilterParameter.html',
+  'dojo/text!./templates/SingleFilterParameter.html',
   'dojo/_base/lang'
 ],
   function(on, Evented, Deferred, declare, _WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin, template,

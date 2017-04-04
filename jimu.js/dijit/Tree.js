@@ -17,7 +17,7 @@
 define(['dojo/_base/declare',
   'dijit/_WidgetBase',
   'dijit/_TemplatedMixin',
-  'dojo/text!./templates/_TreeNode.html',
+  'dojo/text!./templates/TreeNode.html',
   'dojo/_base/lang',
   'dojo/_base/html',
   'dojo/_base/array',

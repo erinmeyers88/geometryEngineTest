@@ -22,7 +22,7 @@ define([
     'dojo/query',
     'dijit/_WidgetBase',
     'dijit/_TemplatedMixin',
-    'dojo/text!./templates/_CropImage.html',
+    'dojo/text!./templates/CropImage.html',
     'jimu/dijit/Message',
     'esri/lang',
     'dojo/NodeList-dom'

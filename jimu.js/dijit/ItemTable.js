@@ -21,7 +21,7 @@ define([
   'dijit/_WidgetBase',
   'dijit/_TemplatedMixin',
   'dijit/_WidgetsInTemplateMixin',
-  'dojo/text!./templates/_ItemTable.html',
+  'dojo/text!./templates/ItemTable.html',
   'dojo/Evented',
   'dojo/_base/lang',
   'dojo/_base/array',

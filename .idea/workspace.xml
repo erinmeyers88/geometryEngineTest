@@ -2,43 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f3a71e9-612f-4b55-87b4-0dc65a927632" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_BasicServiceBrowser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/BasicServiceBrowser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_BasicServiceChooser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/BasicServiceChooser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_BasicServiceChooserContent.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/BasicServiceChooserContent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_CropImage.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/CropImage.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_FeatureSetChooserCore.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/FeatureSetChooserCore.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_FeaturelayerServiceChooserContent.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/FeaturelayerServiceChooserContent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_FeaturelayerSourcePopup.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/FeaturelayerSourcePopup.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_FilterSet.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/FilterSet.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_GeocodeServiceChooserContent.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/GeocodeServiceChooserContent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_GpServiceChooserContent.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/GpServiceChooserContent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_ItemTable.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/ItemTable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_QueryableLayerSourcePopup.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/QueryableLayerSourcePopup.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_QueryableServiceChooserContent.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/QueryableServiceChooserContent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_SingleFilter.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/SingleFilter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_SingleFilterParameter.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/SingleFilterParameter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_Transparency.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/Transparency.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_Tree.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/Tree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/BlankValueProvider.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/BlankValueProvider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/ListValueProvider.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/ListValueProvider.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/ListValueProvider.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/ListValueProvider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/SimpleValueProvider.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/SimpleValueProvider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/TwoDatesValueProvider.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/TwoDatesValueProvider.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/TwoDatesValueProvider.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/TwoDatesValueProvider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/TwoNumbersValueProvider.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/TwoNumbersValueProvider.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/TwoNumbersValueProvider.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/TwoNumbersValueProvider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/ValueProvider.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/ValueProvider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/_filter/ValueProviderFactory.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/filter/ValueProviderFactory.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/FeaturelayerServiceBrowser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/FeaturelayerServiceBrowser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/FeaturelayerServiceChooser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/FeaturelayerServiceChooser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/Filter.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/Filter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/FilterParameters.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/FilterParameters.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/GeocodeServiceBrowser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/GeocodeServiceBrowser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/GeocodeServiceChooser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/GeocodeServiceChooser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/GpServiceBrowser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/GpServiceBrowser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/GpServiceChooser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/GpServiceChooser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/ImageChooser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/ImageChooser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/QueryableServiceBrowser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/QueryableServiceBrowser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/templates/_BasicServiceChooser.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/templates/BasicServiceChooser.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/templates/_BasicServiceChooserContent.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/templates/BasicServiceChooserContent.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/templates/_CropImage.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/templates/CropImage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/templates/_FilterSet.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/templates/FilterSet.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/templates/_ItemTable.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/templates/ItemTable.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/templates/_SingleFilter.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/templates/SingleFilter.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/templates/_SingleFilterParameter.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/templates/SingleFilterParameter.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/templates/_Transparency.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/templates/Transparency.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jimu.js/dijit/templates/_TreeNode.html" afterPath="$PROJECT_DIR$/jimu.js/dijit/templates/TreeNode.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/BasicServiceChooser.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/BasicServiceChooser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/BasicServiceChooserContent.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/BasicServiceChooserContent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/CropImage.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/CropImage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/FilterSet.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/FilterSet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/ItemTable.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/ItemTable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/SingleFilter.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/SingleFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/SingleFilterParameter.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/SingleFilterParameter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/Transparency.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/Transparency.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimu.js/dijit/Tree.js" afterPath="$PROJECT_DIR$/jimu.js/dijit/Tree.js" />
     </list>
     <ignored path="geometryEngineTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,122 +42,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FilterSet.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/FilterSet.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GeocodeServiceChooserContent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/GeocodeServiceChooserContent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GpServiceChooserContent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/GpServiceChooserContent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemTable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/ItemTable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryableLayerSourcePopup.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/QueryableLayerSourcePopup.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryableServiceChooserContent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/QueryableServiceChooserContent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleFilter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/SingleFilter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleFilterParameter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/SingleFilterParameter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transparency.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/Transparency.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tree.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tree.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jimu.js/dijit/Tree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-20">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="740">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicServiceChooser.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/BasicServiceChooser.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicServiceChooserContent.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/BasicServiceChooserContent.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CropImage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/CropImage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilterSet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/FilterSet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemTable.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/ItemTable.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleFilter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/SingleFilter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleFilterParameter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/SingleFilterParameter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transparency.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/Transparency.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/TreeNode.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -362,18 +325,18 @@
       <workItem from="1491325128281" duration="48000" />
       <workItem from="1491325230917" duration="33000" />
       <workItem from="1491325446197" duration="24000" />
-      <workItem from="1491325625195" duration="395000" />
+      <workItem from="1491325625195" duration="523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500000" />
+    <option name="totallyTimeSpent" value="628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="1920" height="1053" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16324382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22906794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -641,11 +604,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jimu.js/dijit/Tree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="740">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/BasicServiceChooser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/BasicServiceChooserContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/CropImage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/FilterSet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/ItemTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/SingleFilter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/SingleFilterParameter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/Transparency.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jimu.js/dijit/templates/TreeNode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
